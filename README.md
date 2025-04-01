@@ -1,4 +1,5 @@
-<h1>Pixels
+Pixels<h1>
+<br>
 Pixels is a web gallery and image search application that allows users to browse images on multiple categories. With the use of dynamic filtering, responsive layout, and intuitive interface, Pixels provides an interactive experience in searching different and interesting images.
 <br>
 **Features**
