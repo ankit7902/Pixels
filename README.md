@@ -13,8 +13,10 @@ Pixels is a web gallery and image search application that allows users to browse
 <br>
 **Saved Images:** Pin your favorite images and view them anytime using the "Saved" tab.​
 <br>
+<br>
 **Technologies Used**
-Frontend:
+<br>
+**Frontend:**
 
 React.js: For constructing the user interface and handling application state.​
 GitHub
