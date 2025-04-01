@@ -2,6 +2,7 @@
 <br>
 Pixels is a web gallery and image search application that allows users to browse images on multiple categories. With the use of dynamic filtering, responsive layout, and intuitive interface, Pixels provides an interactive experience in searching different and interesting images.
 <br>
+<br>
 **Features**
 <br>
 **Dynamic Category Selection**: Simply navigate images by choosing from a variety of categories like Nature, Travel, City, Technology, Animals, Fashion, and more.
