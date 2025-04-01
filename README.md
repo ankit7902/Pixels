@@ -1,12 +1,22 @@
-# React + Vite
+Pixels is a web gallery and image search application that allows users to browse images on multiple categories. With the use of dynamic filtering, responsive layout, and intuitive interface, Pixels provides an interactive experience in searching different and interesting images.
+<br>
+Features
+Dynamic Category Selection: Simply navigate images by choosing from a variety of categories like Nature, Travel, City, Technology, Animals, Fashion, and more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Search Functionality: Use the search box on the homepage to narrow down images according to specific keywords, making your browsing experience personalized to your interests.​
 
-Currently, two official plugins are available:
+Responsive Design: Navigate easily across devices since Pixels is designed for both mobile and desktop layouts.​
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Saved Images: Pin your favorite images and view them anytime using the "Saved" tab.​
 
-## Expanding the ESLint configuration
+Technologies Used
+Frontend:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js: For constructing the user interface and handling application state.​
+GitHub
+
+Vite: Offers an accelerated and optimized building process for React applications.
+
+Bootstrap: Implements responsive design and pre-designed components to have a uniform user experience.
+
+CSS: For bespoke styling and visual effects.
